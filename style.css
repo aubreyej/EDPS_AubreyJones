@@ -10,6 +10,12 @@ h2{
     color: white;
     text-align: left;
     font-size: 30px;
+    
+}
+
+h3{
+    font-family:inherit;
+    color: yellowgreen;
 }
 
 p{
